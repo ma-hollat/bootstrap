@@ -1,0 +1,27 @@
+.container-fluid{
+    background-color: tomato;
+}
+
+.col{
+    background-color: rgb(48, 226, 211);
+}
+
+.col-6{
+    background-color: darkgray;
+    border: solid 1px black;
+    color: wheat;
+}
+.col-3{
+    background-color: beige;
+    border: solid 1px black;
+    color: blue;
+}
+
+.col-md-6{
+    background-color: brown;
+}
+
+.col-md-4{
+    background-color: yellow;
+    border: solid 1px black;
+}
