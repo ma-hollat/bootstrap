@@ -73,7 +73,7 @@ font-weight: 900;
 /*Testimonial*/
 
 #testimonials{
-    background-color: var(--dak-red-alfa);
+    background-color: var(--dak-red);
     color: #fff;
     text-align: center;
 }
@@ -93,7 +93,7 @@ font-weight: 900;
 }
 
 #press {
-    background-color: var(--dak-red-alfa);
+    background-color: var(--dak-red);
     text-align: center;
     padding-bottom: 3%;
 }
@@ -115,4 +115,19 @@ font-weight: 900;
 .pricing-column {
     padding: 3% 2%;
     
+}
+
+#cta {
+    color: #fff;
+    font-family: 'Montserrat';
+    text-align: center;
+    background-color: var(--dak-red);
+    margin: 0;
+    padding: 20rem;
+}
+
+#footer{
+    text-align: center;
+    margin: 0;
+    padding: 1rem;
 }
